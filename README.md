@@ -12,4 +12,4 @@
  - Click **Use Logic** to solve by using logic algorithm
  - Click **Use Learning** to solve by using Q-Learning (Note: We must wait a short time to training agent)
  
- *If you get help, please mail to: ndcuong869@gmail.com*
+ *If you need a help, please mail to: ndcuong869@gmail.com*
